@@ -1,7 +1,7 @@
 # Hello! My name is Matthew McCracken.
 
-## I am a 3rd year Software Engineering Student looking for spring software internships.
-## Below are some of the languages and tools that I enjoy using.
+### I am a 3rd year Software Engineering Student looking for spring software internships.
+### Below are some of the languages and tools that I enjoy using.
 ![Javscript](https://img.icons8.com/color/48/000000/javascript.png)
 ![HTML](https://img.icons8.com/nolan/64/html-filetype.png)
 ![CSS](https://img.icons8.com/nolan/64/css-filetype.png)
